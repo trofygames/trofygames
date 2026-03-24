@@ -1,3 +1,7 @@
+
+#admob TrofyGames
+google.com, pub-7463159670784446, DIRECT, f08c47fec0942fa0
+
 #Updated 17.11.2025
 
 #Appodeal
