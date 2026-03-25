@@ -1,6 +1,7 @@
 
 #admob TrofyGames
 google.com, pub-7463159670784446, DIRECT, f08c47fec0942fa0
+vungle.com, 69c32f3a6cffa56c03badac4, DIRECT, c107d686becd2d77
 
 #Updated 17.11.2025
 
